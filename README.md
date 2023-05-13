@@ -19,11 +19,11 @@ My collection of attempts at different competitive programming challenges in pyt
     ┗ 📜README.md\
 
 ## Sources
-    Content was gathered from the following sources:
-        - [CSESTACK](https://www.csestack.org/python-competitive-programming-questions-practice/)
-        - [INCLUDEHELP](https://www.includehelp.com/python/tic-tac-toe-competitive-coding-questions.aspx)
-        - [Github: Keon](https://github.com/keon/algorithms/blob/master/algorithms/strings/)
-        - [Github: donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
+Content was gathered from the following sources:
+    - [CSESTACK](https://www.csestack.org/python-competitive-programming-questions-practice/)
+    - [INCLUDEHELP](https://www.includehelp.com/python/tic-tac-toe-competitive-coding-questions.aspx)
+    - [Github: Keon](https://github.com/keon/algorithms/blob/master/algorithms/strings/)
+    - [Github: donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
 
 ## Connect with Me 🤝🏻 &nbsp;
 
