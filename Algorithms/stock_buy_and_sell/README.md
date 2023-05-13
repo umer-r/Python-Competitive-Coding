@@ -1,5 +1,5 @@
 # TASK
-    **Stock Buy and Sell profit analyzer algorithm**
+**Stock Buy and Sell profit analyzer algorithm.**
 
 ## Problem Description:
     Suppose you have given the stock prices for respective days like 
