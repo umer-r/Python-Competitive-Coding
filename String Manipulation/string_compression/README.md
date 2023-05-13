@@ -3,7 +3,7 @@
 **Sort the letters in a string by frequency.**
 
 ## Problem Description:
->Compress a string such that 'AAABCCDDDD' becomes 'A3BC2D4'.
+>Given a strings sort the letters in the string by frequency.
 
 ## Constaints & Scenerio:
     Can we assume the string is ASCII?
