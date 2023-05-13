@@ -1,7 +1,5 @@
-![GitHub](https://img.shields.io/github/license/umer-r/Python-Competitive-Coding) ![GitHub top language](https://img.shields.io/github/languages/top/umer-r/Python-Competitive-Coding) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/umer-r/Python-Competitive-Coding) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/umer-r/Python-Competitive-Coding)
-
 # TASK
-    Stock Buy and Sell profit analyzer algorithm
+    **Stock Buy and Sell profit analyzer algorithm**
 
 ## Problem Description:
     Suppose you have given the stock prices for respective days like 
