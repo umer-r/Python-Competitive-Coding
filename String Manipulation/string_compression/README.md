@@ -1,6 +1,6 @@
 # TASK
 
-**Sort the letters in a string by frequency.**
+**Compress a string.**
 
 ## Problem Description:
 >Given a strings sort the letters in the string by frequency.
