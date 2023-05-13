@@ -1,29 +1,36 @@
-![GitHub](https://img.shields.io/github/license/umer-r/Python-Competitive-Coding) ![GitHub top language](https://img.shields.io/github/languages/top/umer-r/Python-Competitive-Coding) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/umer-r/Python-Competitive-Coding) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/umer-r/Python-Competitive-Coding)
+![GitHub](https://img.shields.io/github/license/umer-r/Python-Competitive-Coding) ![GitHub Last commit](https://img.shields.io/github/last-commit/umer-r/Python-Competitive-Coding) ![Repo-Size](https://img.shields.io/github/repo-size/umer-r/Python-Competitive-Coding) ![Language Count](https://img.shields.io/github/languages/count/umer-r/Python-Competitive-Coding)
 
 # Python-Competitive-Coding
 My collection of attempts at different competitive programming challenges in python.
 
 ## Project Directory Structure
-    📦Python-Competitive-Coding\
-    ┣ 📂Algorithms\
-    ┃ ┗ 📂stock_buy_and_sell\
-    ┃ ┃ ┣ 📜alternative_solution.py\
-    ┃ ┃ ┣ 📜MyAttempt.py\
-    ┃ ┃ ┗ 📜README.md\
-    ┣ 📂Challenges\
-    ┣ 📂Cryptographic Algorithms\
-    ┣ 📂General Competitive Problems\
-    ┣ 📂String Manipulation\
-    ┣ 📂Validation\
-    ┃ ┗ 📂ip_validation\
-    ┗ 📜README.md\
+
+    📦Python-Competitive-Coding
+    ┣ 📂Algorithms
+    ┃ ┗ 📂stock_buy_and_sell
+    ┣ 📂Challenges
+    ┃ ┣ 📂fizz_buzz
+    ┃ ┗ 📂tic_tac_toe
+    ┣ 📂Cryptographic Algorithms
+    ┃ ┗ 📂caeser_cipher
+    ┣ 📂General Competitive Problems
+    ┃ ┣ 📂common_factor
+    ┃ ┗ 📂does_it_divide
+    ┣ 📂String Manipulation
+    ┃ ┣ 📂duplicate_char
+    ┃ ┣ 📂sort_by_frequency
+    ┃ ┗ 📂string_compression
+    ┣ 📂Validation
+    ┃ ┗ 📂ip_validation
+    ┣ 📜LICENSE
+    ┗ 📜README.md
 
 ## Sources
 Content was gathered from the following sources:
-    - [CSESTACK](https://www.csestack.org/python-competitive-programming-questions-practice/)
-    - [INCLUDEHELP](https://www.includehelp.com/python/tic-tac-toe-competitive-coding-questions.aspx)
-    - [Github: Keon](https://github.com/keon/algorithms/blob/master/algorithms/strings/)
-    - [Github: donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
+* [CSESTACK](https://www.csestack.org/python-competitive-programming-questions-practice/)
+* [INCLUDEHELP](https://www.includehelp.com/python/tic-tac-toe-competitive-coding-questions.aspx)
+* [Github: Keon](https://github.com/keon/algorithms/blob/master/algorithms/strings/)
+* [Github: donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
 
 ## Connect with Me 🤝🏻 &nbsp;
 
