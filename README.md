@@ -13,6 +13,7 @@ My collection of attempts at different competitive programming challenges in pyt
     ┃ ┗ 📂tic_tac_toe
     ┣ 📂Cryptographic Algorithms
     ┃ ┗ 📂caeser_cipher
+    ┃ ┗ 📂vigenere_cipher
     ┣ 📂General Competitive Problems
     ┃ ┣ 📂common_factor
     ┃ ┗ 📂does_it_divide
