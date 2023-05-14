@@ -29,6 +29,7 @@ My collection of attempts at different competitive programming challenges in pyt
 Content was gathered from the following sources:
 * [CSESTACK](https://www.csestack.org/python-competitive-programming-questions-practice/)
 * [INCLUDEHELP](https://www.includehelp.com/python/tic-tac-toe-competitive-coding-questions.aspx)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/)
 * [Github: Keon](https://github.com/keon/algorithms/blob/master/algorithms/strings/)
 * [Github: donnemartin](https://github.com/donnemartin/interactive-coding-challenges)
 
